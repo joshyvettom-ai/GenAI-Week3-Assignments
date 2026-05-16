@@ -7,8 +7,8 @@ This repository contains my AI and automation course assignment projects.
 - Resume Builder Pro Custom GPT
 - Google Apps Script Job Tracker Automation
 - AI Interview Coach GPT
-
-
+-
+-
 # README – Resume Builder Pro Custom GPT
 
 # Project Overview
