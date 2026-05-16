@@ -8,6 +8,7 @@ This repository contains my AI and automation course assignment projects.
 - Google Apps Script Job Tracker Automation
 - AI Interview Coach GPT
 
+
 # README – Resume Builder Pro Custom GPT
 
 # Project Overview
@@ -16,6 +17,7 @@ This repository contains my AI and automation course assignment projects.
 -	Built to support resume rewriting, keyword optimisation, and career-focused resume improvements. 
 
 # Key Features
+
 - Generates ATS-friendly resume content.
 - Tailors resumes based on uploaded Job Descriptions.
 - Rewrites work experience into professional achievement-focused bullet points. 
