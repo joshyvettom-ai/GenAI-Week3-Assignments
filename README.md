@@ -48,7 +48,7 @@ This repository contains my AI and automation course assignment projects.
 - Improved understanding of ATS optimisation techniques. 
 - Demonstrated how AI can automate resume customisation and career assistance workflows. 
 
-
+#
 # README – Google Apps Script Job Tracker Automation
 
 # Project Overview
@@ -88,7 +88,7 @@ This repository contains my AI and automation course assignment projects.
 - Improved understanding of Gmail and Google Sheets integration.
 - Demonstrated how automation can improve productivity and job application tracking. 
 
-
+#
 # README – AI Interview Coach GPT Project
 
 # Project Overview
