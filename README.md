@@ -1,5 +1,5 @@
 # GenAI-Week3-Assignments
-#
+
 This repository contains my AI and automation course assignment projects.
 
 ## Projects
